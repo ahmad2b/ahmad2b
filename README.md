@@ -1,11 +1,23 @@
-### Hi there 👋 Welcome
+# Hi, I'm Muhammad Ahmad Shoukat 👋
+- **Applied GenAI Engineer** with 2+ years of experience in full-stack development and AI-powered solutions.
+- Specialized in building AI platforms using **Vercel AI SDK, Langchain, and OpenAI APIs**.
+- Proficient in **TypeScript, Next.js, TailwindCSS, Python, FastAPI, and SQLModel**.
+- Currently diving into **PyTorch**, **neural networks**, and **deep learning**.
 
-![banner](https://media.licdn.com/dms/image/D4D16AQHAgyau74UcBw/profile-displaybackgroundimage-shrink_350_1400/0/1695701196526?e=1708560000&v=beta&t=yj2FZT215IKQvYX5N97vbwOqlhWxWOFl0EOA5CSDrE8)
+## 🔧 My Tech Stack:
+- **Frontend:** TypeScript, Next.js, TailwindCSS, Vercel AI SDK
+- **Backend:** Python, FastAPI, SQLModel, Docker, Microservices
+- **GenAI/AI:** GPT-4o, Langchain, PyTorch (learning)
+- **DevOps:** Docker, Redis, GitHub Actions
+- **Databases:** Postgres
 
-### Techstack
+## 📫 How to Reach Me:
+- [LinkedIn](https://www.linkedin.com/in/ahmad2b/)
+- Email: ahmadshaukat_4@outlook.com
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/openai/fff" /> <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/fff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/react/fff" />
+##
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/openai/fff" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/vercel/fff" />
