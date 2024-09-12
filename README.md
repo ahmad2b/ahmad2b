@@ -12,7 +12,8 @@
 - **Databases:** PostgreSQL
 
 ## 📫 How to Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/ahmad2b/)
+- [LinkedIn](https://www.linkedin.com/in/ahmad2b)
+- [X (formerly Twitter)](https://x.com/mahmad2b)
 - Email: ahmadshaukat_4@outlook.com
 
 ##
