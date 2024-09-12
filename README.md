@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Ahmad Shoukat 👋
+# Hi, I'm Muhammad Ahmad 👋
 - **Applied GenAI Engineer** with 2+ years of experience in full-stack development and AI-powered solutions.
 - Specialized in building AI platforms using **Vercel AI SDK, Langchain, and OpenAI APIs**.
 - Proficient in **TypeScript, Next.js, TailwindCSS, Python, FastAPI, and SQLModel**.
@@ -9,7 +9,7 @@
 - **Backend:** Python, FastAPI, SQLModel, Docker, Microservices
 - **GenAI/AI:** GPT-4o, Langchain, PyTorch (learning)
 - **DevOps:** Docker, Redis, GitHub Actions
-- **Databases:** Postgres
+- **Databases:** PostgreSQL
 
 ## 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/ahmad2b/)
