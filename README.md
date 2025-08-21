@@ -1,6 +1,6 @@
 # Muhammad Ahmad 👋
 
-### Full-Stack AI Engineer specializing in End-to-End Agentic Systems
+### Full-Stack AI Engineer specializing in End-to-End Agentic Apps & Systems
 
 I architect and build full-stack AI applications where autonomous agents are the core component. My work focuses on bridging the gap between complex backend agentic logic (reasoning, planning, tool use) and intuitive, high-performance frontends. I don't just add AI features; I build products where the agent *is* the product.
 
