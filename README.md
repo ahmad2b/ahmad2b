@@ -1,31 +1,39 @@
-# Muhammad Ahmad 👋
+# Muhammad Ahmad
+**Full-Stack AI Engineer**
 
-### Full-Stack AI Engineer specializing in End-to-End Agentic Apps & Systems
+Building multi-agent systems, canvas-style AI interfaces, and voice AI applications.
 
-I architect and build full-stack AI applications where autonomous agents are the core component. My work focuses on bridging the gap between complex backend agentic logic (reasoning, planning, tool use) and intuitive, high-performance frontends. I don't just add AI features; I build products where the agent *is* the product.
+## Recent Work
+- Contributed to **LangGraph Open Canvas**
+- Built AI agent systems for multiple startups in 2025
+- Specialty: Multi-agent workflows, canvas-style UX, voice AI integration
 
----
+## Open Source
+- [Canvas Callback](https://github.com/ahmad2b/canvas-callback) - Canvas-style AI interface (80+ stars)
+- [LangGraph Voice Call Agent](https://github.com/ahmad2b/langgraph-voice-call-agent) - Real-time call to a LangGraph agent over LiveKit
+- [OpenAI Agents Streaming API](https://github.com/ahmad2b/openai-agents-streaming-api) - Stream responses from openai-agents-python using fastapi
+- [postbot3000](https://github.com/ahmad2b/postbot3000) - (280+ stars)
 
-### My Go-To Stack for Agentic Systems
+## Tech Stack
 
-I believe in a robust, modular architecture. Here’s how I structure my projects:
+**Agent Frameworks**  
+LangGraph · OpenAI Agents SDK · Vercel AI SDK
 
-*   **🧠 Agentic Core:** The "brain" of the system. I design agents that can reason, manage state, execute tasks, and achieve set goals.
-    *   `OpenAI Agents SDK`, `LangGraph`, `Vercel AI SDK`
-*   **⚙️ Backend & API Layer:** A high-performance, asynchronous backend to serve the agent's logic and manage data.
-    *   `Python`, `FastAPI`, `SQLModel` (for data modeling & ORM), `PostgreSQL`
-*   **🖥️ Frontend Interface:** Responsive, interactive interfaces that can handle streaming and complex state from the agent.
-    *   `Next.js`, `TypeScript`
-*   **🚀 Infrastructure & DevOps:** Containerized, scalable, and reliable deployments.
-    *   `Docker`, `Redis` (for caching & message broking), `GitHub Actions` (for CI/CD)
+**Backend**  
+Python · FastAPI · SQLModel · PostgreSQL
 
----
+**Frontend**  
+Next.js · TypeScript · React
 
-### Let's Connect
+**Infrastructure**  
+Docker · Redis · GitHub Actions
 
-- [LinkedIn ](https://www.linkedin.com/in/ahmad2b)
-- [X (Twitter)](https://x.com/mahmad2b)
-- Email: ahmadshaukat_4@outlook.com
+## Contact
+Available for freelance projects.
+
+📧 ahmadshaukat_4@outlook.com  
+💼 [LinkedIn](https://linkedin.com/in/ahmad2b)  
+🐦 [X/Twitter](https://x.com/mahmad2b)
 
 ##
 
