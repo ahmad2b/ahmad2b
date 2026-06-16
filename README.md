@@ -1,7 +1,20 @@
 # Muhammad Ahmad
-**Full-Stack AI Engineer**
+**AI Engineer · building reliable AI agents // AI workers**
 
-Building multi-agent systems, canvas-style AI interfaces, and voice AI applications.
+I build agentic systems that go beyond impressive demos: tool-calling, retrieval, streaming UX, voice interfaces, and service boundaries that hold up in production.
+
+My current focus is **agent reliability**: making AI agents easier to operate, measure, debug, and trust when they hit real users, real tools, and real workflows.
+
+## What I build today
+
+  * LangGraph and OpenAI Agents SDK
+  * RAG pipelines with Postgres, pgvector, hybrid search, and evaluation
+  * Streaming agent interfaces with FastAPI, Next.js, and the Vercel AI SDK
+  * Voice AI agents with LiveKit and real-time orchestration
+  
+## What I'm focused on now
+  
+Taking those agents from demo to dependable: evals, guardrails, durable execution, observability, and human-in-the-loop on the actions that touch real data or money.
 
 ## Recent Work
 - Contributed to **LangGraph Open Canvas**
@@ -14,22 +27,18 @@ Building multi-agent systems, canvas-style AI interfaces, and voice AI applicati
 - [OpenAI Agents Streaming API](https://github.com/ahmad2b/openai-agents-streaming-api) - Stream responses from openai-agents-python using fastapi
 - [postbot3000](https://github.com/ahmad2b/postbot3000) - (280+ stars)
 
-## Tech Stack
+## Current direction
 
-**Agent Frameworks**  
-LangGraph · OpenAI Agents SDK · Vercel AI SDK
+AI agents are becoming digital workers, but the useful version is not magic autonomy. It is scoped tools, measured quality, reliable execution, approval gates where they
+matter, and systems a team can replay and debug after something goes wrong. That is the layer I care about building.  
 
-**Backend**  
-Python · FastAPI · SQLModel · PostgreSQL
+## Tech stack
 
-**Frontend**  
-Next.js · TypeScript · React
-
-**Infrastructure**  
-Docker · Redis · GitHub Actions
-
+Paperclip · LangGraph · OpenAI Agents SDK · Vercel AI SDK · RAG · pgvector · Python · FastAPI · SQLModel · PostgreSQL · Next.js · TypeScript · React · Docker
+  
 ## Contact
-Available for freelance projects.
+
+Open to selected freelance and consulting work around reliable AI agents, AI workers, and agentic product systems.
 
 📧 ahmadshaukat_4@outlook.com  
 💼 [LinkedIn](https://linkedin.com/in/ahmad2b)  
@@ -37,22 +46,17 @@ Available for freelance projects.
 
 ##
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/openai/fff" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/fff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/modelcontextprotocol/fff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/anthropic/fff" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/modelcontextprotocol/fff" /> <img height="32" width="32" src="https://cdn.simpleicons.org/anthropic/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/langgraph/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/ollama/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/claude/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/mistralai/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/googlegemini/fff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/fff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/fff" /> 
-<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/fff" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/fff" /> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/fff" /> 
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/docker/fff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/jupyter/fff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/figma/fff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/postman/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/fff" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/fff" />
 
